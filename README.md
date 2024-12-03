@@ -1,4 +1,3 @@
-
 # AI Routine Manager
 
 ## Overview
